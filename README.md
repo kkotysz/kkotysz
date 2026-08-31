@@ -1,4 +1,4 @@
-# Hi, I'm Krzysiek 👋
+# Hi, I'm Chris 👋
 
 **Astronomer & Scientific Software / Systems Engineer**
 
